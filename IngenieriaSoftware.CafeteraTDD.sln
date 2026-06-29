@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeteraTDD", "CafeteraTDD\CafeteraTDD.csproj", "{9ACE46DD-81C1-47C4-A795-3A2919C708C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeteraTDD.Testing", "CafeteraTDD.Testing\CafeteraTDD.Testing.csproj", "{461FB11F-E49A-4AC7-B125-EAB34E318E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACE46DD-81C1-47C4-A795-3A2919C708C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACE46DD-81C1-47C4-A795-3A2919C708C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACE46DD-81C1-47C4-A795-3A2919C708C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACE46DD-81C1-47C4-A795-3A2919C708C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461FB11F-E49A-4AC7-B125-EAB34E318E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461FB11F-E49A-4AC7-B125-EAB34E318E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461FB11F-E49A-4AC7-B125-EAB34E318E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461FB11F-E49A-4AC7-B125-EAB34E318E39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779D8709-D744-4602-A7F5-6D3E69DE7654}
+	EndGlobalSection
+EndGlobal
